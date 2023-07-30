@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karine Noronha</h1>
-<h3 align="center">passionate about the world of data and its predictions</h3>
+<h3 align="center">passionate about the world of data and data predictions</h3>
 
 - 🌱 I’m currently learning **Python, SQL**
 
