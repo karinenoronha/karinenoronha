@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Karine Noronha</h1>
 <h3 align="center">passionate about the world of data and data predictions</h3>
 
+-👷 **Civil Engineer** transitioning into **Data Science**.
+- 🧩 Experience in **team management** and making **critical decisions**.
+- 🏢 Skilled in understanding the **overall business** and its needs.
+  
 - 🌱 I’m currently learning **Python, SQL**
 
 - 💬 Ask me about **Python, BI, SQL,**
+  
+- 🌎 **From Rio de Janeiro**, now living in **cold Europe**.
+- 🏄‍♂️ **Surfer** in my free time, always chasing the next perfect wave.
+
+I am excited to combine my analytical skills and engineering experience with data science to solve complex problems and generate valuable insights.
 
 - 📫 How to reach me **karinepnoronha@gmail.com**
 
