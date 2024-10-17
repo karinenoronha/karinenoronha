@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karine Noronha</h1>
 <h3 align="center">passionate about the world of data and data predictions</h3>
 
--👷 **Civil Engineer** transitioning into **Data Science**.
+-👷 **Civil Engineer** transitioning into **Datas world**.
 - 🧩 Experience in **team management** and making **critical decisions**.
 - 🏢 Skilled in understanding the **overall business** and its needs.
   
