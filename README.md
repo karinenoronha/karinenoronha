@@ -5,7 +5,7 @@
 - 🧩 Experience in **team management** and making **critical decisions**.
 - 🏢 Skilled in understanding the **overall business** and its needs.
   
-- 🌱 I’m currently learning **Python, SQL**
+- 🌱 I’m currently learning **Python, SQL, Machine learning**
 
 - 💬 Ask me about **Python, BI, SQL,**
   
